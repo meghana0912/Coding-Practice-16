@@ -94,7 +94,7 @@ class Comments extends Component {
 
   render() {
     const {nameInput, commentInput, commentsList} = this.state
-    
+
     return (
       <div className="app-container">
         <div className="comments-container">
